@@ -18,7 +18,10 @@ the recording of the class that they missed.
 - [@davidblackburn](https://derpysquid1121.github.io/website/)
 
 ## Screenshots
-
+The first two screenshots show the spreadsheet from which the data is pulled. The first is to show the layout,
+and the second is to show an example of the error handling. 
 ![Bulk data spreadsheet](/readme_src/Capture1.PNG)
 ![Bulk data spreadsheet with successes and errors](/readme_src/Capture2.PNG)
+This third screenshot shows the resulting scheduled classes sheet used to keep track of the recordings and then to connect to the campus 
+canvas services with further scripts written by my manager.
 ![Scheduled Recording sheet](/readme_src/Capture3.PNG)
